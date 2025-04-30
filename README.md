@@ -42,8 +42,6 @@ This project demonstrates the use of prompt engineering techniques to create eng
 - Blog listicle: **Top 5 AI Tools for Entrepreneurs in 2025**
 - And more…
 
-You can find all sample outputs in the [`/responses`](./responses) folder.
-
 ---
 
 ## 🔍 SEO Techniques Applied
