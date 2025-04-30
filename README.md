@@ -60,11 +60,5 @@ This project highlights how well-structured prompts can help generate effective 
 
 ---
 
-## 📫 Contact
-
-For feedback or collaboration, feel free to reach out at [your-email@example.com](mailto:your-email@example.com)
-
----
-
 ⭐️ *If you found this helpful, give the repo a star!*
 
